@@ -1,0 +1,5 @@
+#naulnauli
+
+Mengapa saya harus belajar OS?
+Seiring dengan berkembangnya teknologi, manusia membutuhkan komputer dan semua komputer membutuhkan Sistem Operasi untuk menjalankan seluruh program yang ada.
+
