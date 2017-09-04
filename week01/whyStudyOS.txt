@@ -1,5 +1,4 @@
 #naulnauli
 
 Mengapa saya harus belajar OS?
-Seiring dengan berkembangnya teknologi, manusia membutuhkan komputer dan semua komputer membutuhkan Sistem Operasi untuk menjalankan seluruh program yang ada.
-
+Seiring dengan berkembangnya teknologi, manusia membutuhkan komputer dan semua komputer membutuhkan Sistem Operasi untuk menjalankan seluruh program yang ada.Semoga saya bisa mengaplikasikan mata kuliah ini di dunia kerja nanti. 
