@@ -1,0 +1,9 @@
+w00-170829-16-LR-About: Introduction to Operating System, From: Pak Anwar as Lecturer
+w00-170829-16-LR-About: History about Operating System on Microsoft and Apple, From: Pak Anwar as Lecturer
+w01-170904-15-PS-About: Do task lab week01, Try to solve the problem, From: Scele
+w01-170904-20-LR-About: Copyright, Hak Paten, From: Book-Guide to Operating System
+w01-170905-16-LR-About: Hak Kekayaan Intelektual, CopyLeft, CopyRight, From: Pak Anwar as Lecturer
+w01-170905-16.30-LR-About: Differences between open source and free software, From: Pak Anwar as Lecturer
+w01-170907-16-LR-About: Scripting, Method, Commands for Programmers, Regular Experssion, From: Pak Anwar as Lecturer
+w01-170907-16-LR-About: Free Software, From: Arsip Video ETC 00
+w01-170908-14-DS-About: Function of GitHub, Handling some errors, With: Ghea and Amira
