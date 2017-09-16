@@ -1,0 +1,5 @@
+w02-170829-16-LR-About: Processes Thread, From: Pak Anwar as Lecturer
+w02-170904-15-PS-About: Do task lab week02
+w02-170904-20-LR-About: Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-170907-16-LR-About: Scripting, Method, Commands for Programmers, Regular Experssion, From: Lecturer
+w02-170908-14-DS-About: Do exercise Lab02, With: Gheafany
