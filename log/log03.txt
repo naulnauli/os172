@@ -1,0 +1,4 @@
+w03-170919-13-LS-About: Addressing and Pointer, FROM: Lecturer
+w03-170919-13-LS-About: Addressing&Pointer and global&local variables, FROM: Lecturer
+w03-170919-16-PS-Learning about addressing and pointer
+w03-170918-12-PS-Lab Session about BIOS, Boot, and UpStart

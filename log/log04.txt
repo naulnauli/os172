@@ -1,0 +1,9 @@
+w04-170926-13-LS-About: Addressing and Pointer, FROM: Lecturer
+w04-170926-13-LS-About: Addressing&Pointer and global&local variables, FROM: Le$
+w04-170926-14-LS-Watching demos from Lecturer
+w04-170928-13-LS-About: I/O Process, From: Lecturer
+w04-170928-16-PS-Learning about addressing and pointer
+w04-170925-12-PS-Lab Session about global variables and local variables
+w04-170925-13-PS-Lab session about pointer
+w04-170925-20-PS-Learning and trying to trace demos 06-ptr.c
+w04-170925-22-PS-Lab session about I/O Process
