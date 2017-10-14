@@ -1,0 +1,12 @@
+w05-171003-13-LR-About: Address Binding
+w05-171003-13.30-LR-About: Adress Space
+w05-171003-14.30-LR:About: MMU
+w05-171005-13-LR-About: Swapping
+w05-171005-13.30-PS-About: FIFO, LRU, Optimalization
+w05-171005-14.10-PS-About: PTE, PT1, PT2, offset
+w05-171005-16.30-PS-About: Do task Lab week05
+w05-171009-12.30-DS-About: configuration memory and display with Gheafany
+w05-171009-13-PS-About: Do task Lab week05
+w06-171010-13-LR-About: Process
+w06-171010-13-LR-About: Threads
+w06-171012-13-LR-About: Quiz
