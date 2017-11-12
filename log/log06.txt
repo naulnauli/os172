@@ -1,0 +1,7 @@
+w06-171031-14-LR-About: Doing lab session with Gheafany
+w06-171031-16-LR-About: Process, From: Lecturer Mr. Anwar
+w06-171031-16-LR-About: Threads, From: Lecturer Mr. Anwar
+w06-171031-16-LR-About: Doing exercise in classroom
+w06-171102-16-LR-About: Fork, From: Lecturer Mr. Anwar
+w06-171102-16-LR-About: Doing exercise in classroom
+
