@@ -1,0 +1,7 @@
+w08-171114-14.30-LR-About: MultiCore, MultiProcessor 
+w08-171114-13-PS-About: Status Process
+w08-171114-16-PS-About: Do task lab week08
+w08-171116-13.30-PS-About: Status Process soal
+w08-171116-14.10-PS-About: Status Process soal
+w08-171116-16-PS-About: Do task lab week08
+w08-171118-16-PS-About: Do task lab week08
